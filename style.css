@@ -1,0 +1,28 @@
+* {
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+}
+article {
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+    height: 90vh;
+    
+    border: #4d09eb 5px solid;
+    margin: auto;
+    padding:1%;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    border: #000 2px solid;
+    margin:auto;
+}
+.container p {
+    border:green 1px solid;
+    padding: 1%;
+}
+
