@@ -6,10 +6,10 @@
 article {
     display: flex;
     flex-direction: column;
-    width: 90vh;
+    width: 30vh;
     height: 90vh;
     
-    border: #4d09eb 5px solid;
+    border: #ebb609 5px solid;
     margin: auto;
     padding:1%;
 }
